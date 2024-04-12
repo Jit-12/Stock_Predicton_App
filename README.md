@@ -2,6 +2,11 @@
 
 This is a Streamlit web application that provides users with tools to visualize historical stock data, predict future stock prices, and browse news articles related to specific stocks.
 
+## App Link
+
+The app is deployed on Streamlit Cloud. You can access it [here]([<insert-your-app-link>](https://stockpredictonapp-jzjwziqipvqqkrgxpwuxbq.streamlit.app/)).
+
+
 ### FEATURES
 
 - **Stock Prediction**: Users can select a stock, specify a date range, and view historical stock prices as well as predicted future prices using the Prophet forecasting model.
