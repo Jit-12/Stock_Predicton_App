@@ -1,0 +1,8 @@
+pandas
+streamlit
+ta
+yfinance
+requests
+plotly
+dotenv
+prophet
