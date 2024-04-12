@@ -4,7 +4,7 @@ This is a Streamlit web application that provides users with tools to visualize 
 
 ## App Link
 
-The app is deployed on Streamlit Cloud. You can access it [here]([<insert-your-app-link>](https://stockpredictonapp-jzjwziqipvqqkrgxpwuxbq.streamlit.app/)).
+The app is deployed on Streamlit Cloud. You can access it [here](https://stockpredictonapp-jzjwziqipvqqkrgxpwuxbq.streamlit.app/).
 
 
 ### FEATURES
