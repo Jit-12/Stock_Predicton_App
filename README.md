@@ -12,9 +12,12 @@ This is a Streamlit web application that provides users with tools to visualize 
 
 ![App Screenshot](https://github.com/Jit-12/Stock_Predicton_App/blob/master/Screenshots/Screenshot%20(118).png)
 
+
 ![App Screenshot](https://github.com/Jit-12/Stock_Predicton_App/blob/master/Screenshots/Screenshot%20(116).png)
 
+
 ![App Screenshot](https://github.com/Jit-12/Stock_Predicton_App/blob/master/Screenshots/Screenshot%20(114).png)
+
 
 ![App Screenshot](https://github.com/Jit-12/Stock_Predicton_App/blob/master/Screenshots/Screenshot%20(117).png)
 
